@@ -27,5 +27,10 @@
     "eject": "react-scripts eject",
     "react-apollo-form": "react-apollo-form fetch-mutations https://writting-test-9j2wvjofz.now.sh/graphql src/generated"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
