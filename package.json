@@ -1,0 +1,31 @@
+{
+  "name": "prisma-azure-kubernetes-apollo-client",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "apollo-boost": "0.1.27",
+    "apollo-codegen": "0.20.2",
+    "apollo-link": "1.2.6",
+    "apollo-link-error": "1.1.5",
+    "apollo-link-http": "1.5.9",
+    "apollo-link-retry": "2.2.8",
+    "get-graphql-schema": "2.1.2",
+    "graphql": "14.1.1",
+    "react": "16.5.2",
+    "react-apollo": "2.4.0",
+    "react-apollo-form": "0.1.7",
+    "react-dom": "16.5.2",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "react-apollo-form": "react-apollo-form fetch-mutations https://writting-test-9j2wvjofz.now.sh/graphql src/generated"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
